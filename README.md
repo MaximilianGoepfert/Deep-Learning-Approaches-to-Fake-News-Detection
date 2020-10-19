@@ -1,4 +1,7 @@
 # Deep-Learning-Approaches-to-Fake-News-Detection
+- Explored a number of core deep learning algorithms for their performance in detecting fake news.
+- Employed data augmentation techniques to increase the size and quality of the training data set.
+- Also made use of GloVe word vectors to enable the algorithms to learn the data.
 
 ## Code and Resources Used
 __Python Version__: 3.6.9 \
